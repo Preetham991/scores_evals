@@ -1,4 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
+
 
 # Comprehensive Confidence Score Evaluation Report for Multi-Label Email Classification Using Large Language Models
 
