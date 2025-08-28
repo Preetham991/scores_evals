@@ -1,6 +1,6 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
-# Email5 Confidence Report and Criteria
+
+# Email classification Confidence Criteria report 
 
 LLM-Based Multi-Class Email Classification (5 Classes: Spam, Promotions, Social, Updates, Forums)
 
